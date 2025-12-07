@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "stages": {
+    "resource_finder": {
+      "success": true,
+      "completion_marker": "/data/hypogenicai/workspaces/multi-data-align-amh-7dc3/.resource_finder_complete",
+      "outputs": {
+        "literature_review": "/data/hypogenicai/workspaces/multi-data-align-amh-7dc3/literature_review.md",
+        "resources_catalog": "/data/hypogenicai/workspaces/multi-data-align-amh-7dc3/resources.md",
+        "papers_dir": "/data/hypogenicai/workspaces/multi-data-align-amh-7dc3/papers",
+        "datasets_dir": "/data/hypogenicai/workspaces/multi-data-align-amh-7dc3/datasets",
+        "code_dir": "/data/hypogenicai/workspaces/multi-data-align-amh-7dc3/code"
+      },
+      "log_file": "/data/hypogenicai/workspaces/multi-data-align-amh-7dc3/logs/resource_finder_claude.log",
+      "elapsed_time": 715.2856786251068
+    },
+    "experiment_runner": {
+      "success": true,
+      "return_code": 0,
+      "elapsed_time": 2222.9277698993683,
+      "log_file": "/data/hypogenicai/workspaces/multi-data-align-amh-7dc3/logs/execution_claude.log"
+    }
+  },
+  "work_dir": "/data/hypogenicai/workspaces/multi-data-align-amh-7dc3"
+}
